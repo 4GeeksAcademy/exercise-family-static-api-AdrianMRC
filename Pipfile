@@ -13,6 +13,7 @@ pytest = "*"
 mock = "*"
 pytest-testdox = "*"
 pytest-ordering = "*"
+marshmallow = "*"
 
 [requires]
 python_version = "3.13"
